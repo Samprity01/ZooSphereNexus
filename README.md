@@ -1,1 +1,1 @@
-# ZooSphereNexus
+ZoosphereNexus: An interactive project showcasing diverse animals and birds, detailing their habitats, nature, and lives, enriched with audio and images to provide a comprehensive understanding of wildlife.
